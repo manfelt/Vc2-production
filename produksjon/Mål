@@ -1,0 +1,19 @@
+Dette er et prosjekt som sikter på å emulere 'pop' funksjonen i Victoria 2. 
+Det skal være entiteter kalt 'group' som hver er tildelt sin stilling under kategorier som 'labourer', 'clergy', 'landowner' osv.
+
+
+For fullversjon av dette prosjektet skal disse kravene tilfredsstilles:
+*grupper delt opp under 'location' og 'profession'
+*gruppene skal ha et variabelt tall, dette representerer mengden i gruppene
+*funksjoner som sørger for vekst av grupper
+*funksjoner som sørger for flytting av grupper fra 'location' til 'location' eller yrke til yrke.
+
+
+
+
+Etter fullversjonen kan prosjektet utvides noe: 
+*pengesystem
+*gods-og-handelssystem
+*politisk bekymring
+*alfabetisme
+*verdenskart
